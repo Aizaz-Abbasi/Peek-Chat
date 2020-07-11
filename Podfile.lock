@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (5.0.2)
+  - AlamofireImage (4.0.3):
+    - Alamofire (< 6.0.0, >= 5.0.2)
+  - iProgressHUD (1.1.1)
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+  - NextGrowingTextView (1.6.0)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftyJSON (5.0.0)
+  - SwipyCell (4.0.1)
+  - Toast-Swift (4.0.1)
+  - YangMingShan (2.0.1):
+    - YangMingShan/YMSPhotoPicker (= 2.0.1)
+  - YangMingShan/YMSPhotoPicker (2.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - iProgressHUD (~> 1.1.1)
+  - Kingfisher (~> 5.0)
+  - NextGrowingTextView
+  - Socket.IO-Client-Swift (~> 15.2.0)
+  - SwiftyJSON
+  - SwipyCell (~> 4.0)
+  - Toast-Swift (~> 4.0.0)
+  - YangMingShan
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - iProgressHUD
+    - Kingfisher
+    - NextGrowingTextView
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyJSON
+    - SwipyCell
+    - Toast-Swift
+    - YangMingShan
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  AlamofireImage: 3d1a2010519e58675318735580eb856e88840ff7
+  iProgressHUD: caa742128253c97f2c2e1ec59e2bbe6cf689df6a
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  NextGrowingTextView: 39dce2d55291f30b415ca8828f79bbd3e7de1e9c
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwipyCell: 3fbfd7dc091c4699d1cb03f015e2ecdc6f26929d
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+  YangMingShan: 561cfbb769e8cf679d3f23d8ae7030402ddb6495
+
+PODFILE CHECKSUM: d547a73d42a9495bc04e806d0bfa801ed63f6174
+
+COCOAPODS: 1.9.1
